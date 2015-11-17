@@ -2,3 +2,5 @@ this is next push
 
 committing changes
 
+after cloning
+
